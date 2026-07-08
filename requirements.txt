@@ -1,0 +1,8 @@
+openai>=1.30
+gspread>=6.0
+google-auth>=2.30
+telethon>=1.36
+aiogram>=3.7
+python-dotenv>=1.0
+tenacity>=8.3
+pytest>=8.0

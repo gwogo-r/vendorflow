@@ -1,0 +1,20 @@
+# секреты и креды
+.env
+config/google_credentials.json
+*.session
+*.session-journal
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# логи и локальные данные
+*.log
+logs/
+
+# локальные рабочие доки — не публикуем
+backlog.md
+CLAUDE.md
