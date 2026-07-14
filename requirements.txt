@@ -5,4 +5,5 @@ telethon>=1.36
 aiogram>=3.7
 python-dotenv>=1.0
 tenacity>=8.3
+tzdata>=2024.1
 pytest>=8.0
